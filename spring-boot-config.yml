@@ -3,7 +3,7 @@ app:
   description: Welcome to ${app.name}
   
 my:
-  greeting: updated Spring Boot from config server specific of git repo
+  greeting: I have made the updated Spring Boot from config server specific of git repo
   list: one,two,three
 
 db:
