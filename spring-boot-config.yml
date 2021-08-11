@@ -3,7 +3,7 @@ app:
   description: Welcome to ${app.name}
   
 my:
-  greeting: Hello World SpringBoot from config server specific of git repo
+  greeting: Spring Boot from config server specific of git repo
   list: one,two,three
 
 db:
