@@ -1,9 +1,9 @@
 app:
-  name: My app
+  name: My app from git repo
   description: Welcome to ${app.name}
   
 my:
-  greeting: Hello World SpringBoot
+  greeting: Hello World SpringBoot from config server of git repo
   list: one,two,three
 
 db:
