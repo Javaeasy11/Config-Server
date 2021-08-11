@@ -1,0 +1,15 @@
+app:
+  name: My app
+  description: Welcome to ${app.name}
+  
+my:
+  greeting: Hello World SpringBoot
+  list: one,two,three
+
+db:
+  connection: "{connectionString: 'http://------', userName: 'foo', password: 'pass'}"
+  host: 127.0.0.1
+  port: 1200
+
+#this expose everything with * 
+management.endpoints.web.exposure.include: "*"
